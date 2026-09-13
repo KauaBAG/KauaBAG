@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack | Backend, IoT & Sistemas de Rastreamento</h3>
 
 <p align="center">
-  Construo sistemas que conectam <b>hardware, software e integrações de API</b> — de rastreadores GPS embarcados
+  Construo sistemas que conectam <b>hardware, software e integrações de API</b>, de rastreadores GPS embarcados
   a plataformas SaaS multi-tenant completas.
 </p>
 
@@ -49,13 +49,6 @@
 </div>
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauabag&show_icons=true&theme=default&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabag&layout=compact&hide_border=true" height="160" alt="Top Languages"/>
-</div>
 
 <br>
 
