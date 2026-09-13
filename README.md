@@ -24,11 +24,9 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🚛 **[Ecossistema de Rastreamento e Gestão de Frota](#)** | Sistema completo: modelagem OOP de rastreadores/veículos, automação de diagnóstico em massa, integração com Google Roads e WhatsApp Business API | `C++` `Python` `Tkinter` `MySQL` |
-| 🏛️ **[Sistema de Sessões para Câmaras Municipais](#)** | SaaS multi-tenant white-label com painel em tempo real, controle de presença e cronômetro de fala | `PHP` `Laravel` `TypeScript` |
-| 💸 **[Leitor de Transações via Notificações](#)** | App que identifica gastos automaticamente lendo notificações financeiras do celular, sem entrada manual | `Kotlin` |
-
-📌 *Substitua os `#` pelos links reais dos repositórios ou fixe (pin) esses 3 na sua página de perfil.*
+| 🚛 **[Ecossistema de Rastreamento e Gestão de Frota](ifanalitico.com.br/demo)** | Sistema completo: modelagem OOP de rastreadores/veículos, automação de diagnóstico em massa, integração com Google Roads e WhatsApp Business API | `C++` `Python` `Tkinter` `MySQL` |
+| 🏛️ **[Sistema de Sessões para Câmaras Municipais](cliente.ontopleg.com.br)** | SaaS multi-tenant white-label com painel em tempo real, controle de presença e cronômetro de fala | `PHP` `Laravel` `TypeScript` |
+| 💸 **[Leitor de Transações via Notificações]** | App que identifica gastos automaticamente lendo notificações financeiras do celular, sem entrada manual | `Kotlin` |
 
 <br>
 
