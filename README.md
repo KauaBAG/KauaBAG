@@ -20,8 +20,6 @@
 
 ## 🛠️ Projetos em destaque
 
-> Descrições curtas — detalhes completos em cada repositório.
-
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 🚛 **[Ecossistema de Rastreamento e Gestão de Frota](ifanalitico.com.br/demo)** | Sistema completo: modelagem OOP de rastreadores/veículos, automação de diagnóstico em massa, integração com Google Roads e WhatsApp Business API | `C++` `Python` `Tkinter` `MySQL` |
